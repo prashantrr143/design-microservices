@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Microservices-Architecture-By-Prashant Kumar Singh
+title: Microservices-Architecture
 
 # Short description of your site
 description: Microservices-Architecture-By-Prashant Kumar Singh
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MicroservicesByPrashant.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Microservices"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
