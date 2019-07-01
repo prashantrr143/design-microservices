@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Let me think about it.
 ---
 
 My name is Prashant Kumar Singh. I have the following qualities:
